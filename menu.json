@@ -1,0 +1,306 @@
+[
+    {
+        "title": "CUENTAS",
+        "submenu": [
+            {
+                "subTitle": "AHORRO",
+                "options": [
+                    {
+                        "pageName": "Cuenta de Ahorro en Pesos",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroPesos.html"
+                    },
+                    {
+                        "pageName": "Cuenta Ahorro Más",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroMás.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro Infantil en Pesos",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroInfantilPesos.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro Preserva",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroPreserva.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro en Dólares",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroDólares.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro en Euros",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroEuros.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro para residentes en el extrangero",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroResidentesExtrangero.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro Básica inclusiva",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroBásicaInclusiva.html"
+                    },
+                    {
+                        "pageName": "Cuenta de Ahorro Remesas",
+                        "link": "./pages/CUENTAS/AHORRO/CuentaAhorroRemesas.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "CORRIENTES",
+                "options": [
+                    {
+                        "pageName": "Cuenta Corriente Personal",
+                        "link": "./pages/CUENTAS/CORRIENTES/CuentaCorrientePersonal.html"
+                    },
+                    {
+                        "pageName": "Cuenta Corriente Más Personal",
+                        "link": "./pages/CUENTAS/CORRIENTES/CuentaCorrienteMásPersonal.html"
+                    },
+                    {
+                        "pageName": "Cuenta Corriente sin Chequera transaccional",
+                        "link": "./pages/CUENTAS/CORRIENTES/CuentaCorrienteChequeratransaccional.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "SOLUCIONES DIGITALES",
+                "options": [
+                    {
+                        "pageName": "Cuenta MIO Banreservas",
+                        "link": "./pages/CUENTAS/SOLUCIONES DIGITALES/CuentaMIO.html"
+                    },
+                    {
+                        "pageName": "Cuenta Digital",
+                        "link": "./pages/CUENTAS/SOLUCIONES DIGITALES/CuentaDigital.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "INVERSIONES",
+        "submenu": [
+            {
+                "subTitle": "DEPOSITO A PLAZO",
+                "options": [
+                    {
+                        "pageName": "Depósito a Plazo en Pesos",
+                        "link": "./pages/INVERSIONES/DEPOSITO a PLAZO/DepósitoPlazoPesos.html"
+                    },
+                    {
+                        "pageName": "Depósito a Plazo en dólares y euros",
+                        "link": "./pages/INVERSIONES/DEPOSITO a PLAZO/DepósitoPlazoDólaresEuros.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "MERCADO DE VALORES",
+                "options": [
+                    {
+                        "pageName": "Inversiones en Títulos-Valores",
+                        "link": "./pages/INVERSIONES/MERCADO de VALORES/InversionesTítulos-Valores.html"
+                    },
+                    {
+                        "pageName": "Fondos de Inversión",
+                        "link": "./pages/INVERSIONES/MERCADO de VALORES/FondosInversión.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "TARJETAS",
+        "submenu": [
+            {
+                "subTitle": "DÉBITO",
+                "options": [
+                    {
+                        "pageName": "Mastercard Débito Dólares",
+                        "link": "./pages/TARJETAS/DÉBITO/MastercardDébitoDólares.html"
+                    },
+                    {
+                        "pageName": "Mastercard Débito Gold",
+                        "link": "./pages/TARJETAS/DÉBITO/MastercardDébitoGold.html"
+                    },
+                    {
+                        "pageName": "Mastercard Débito Platinum",
+                        "link": "./pages/TARJETAS/DÉBITO/MastercardDébitoPlatinum.html"
+                    },
+                    {
+                        "pageName": "Mastercard Débito Standard",
+                        "link": "./pages/TARJETAS/DÉBITO/MastercardDébitoStandard.html"
+                    },
+                    {
+                        "pageName": "Mastercard Débito Standard Táctils",
+                        "link": "./pages/TARJETAS/DÉBITO/MastercardDébitoStandardTáctil.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "CRÉDITO",
+                "options": [
+                    {
+                        "pageName": "Tarjeta de crédito Visa Ser",
+                        "link": "./pages/TARJETAS/CRÉDITO/TarjetacréditoVisaSer.html"
+                    },
+                    {
+                        "pageName": "Credimás Banreservas",
+                        "link": "./pages/TARJETAS/CRÉDITO/CredimásBanreservas.html"
+                    },
+                    {
+                        "pageName": "Mastercard Black",
+                        "link": "./pages/TARJETAS/CRÉDITO/MastercardBlack.html"
+                    },
+                    {
+                        "pageName": "Mastercard Standard Táctil Banreservas",
+                        "link": "./pages/TARJETAS/CRÉDITO/MastercardStandardTáctil.html"
+                    },
+                    {
+                        "pageName": "Visa Flotilla Personal",
+                        "link": "./pages/TARJETAS/CRÉDITO/VisaFlotillaPersonal.html"
+                    },
+                    {
+                        "pageName": "Visa Infinite",
+                        "link": "./pages/TARJETAS/CRÉDITO/VisaInfinite.html"
+                    },
+                    {
+                        "pageName": "Visa Platinum Universe",
+                        "link": "./pages/TARJETAS/CRÉDITO/VisaPlatinumUniverse.html"
+                    },
+                    {
+                        "pageName": "Visa y Mastercard Clásica",
+                        "link": "./pages/TARJETAS/CRÉDITO/VisaMastercardClásica.html"
+                    },
+                    {
+                        "pageName": "Visa y Mastercard Gold",
+                        "link": "./pages/TARJETAS/CRÉDITO/VisaMastercardGold.html"
+                    },
+                    {
+                        "pageName": "Visa y Mastercard Platinum",
+                        "link": "./pages/TARJETAS/CRÉDITO/VisaMastercardPlatinum.html"
+                    },
+                    {
+                        "pageName": "Tarjeta de crédito Preserva",
+                        "link": "./pages/TARJETAS/CRÉDITO/TarjetacréditoPreserva.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "PRESTAMOS",
+        "submenu": [
+            {
+                "subTitle": "PERSONALES",
+                "options": [
+                    {
+                        "pageName": "Préstamos de Consumo",
+                        "link": "./pages/PRESTAMOS/PERSONALES/PréstamosConsumo.html"
+                    },
+                    {
+                        "pageName": "Vacaciones Felices",
+                        "link": "./pages/PRESTAMOS/PERSONALES/VacacionesFelices.html"
+                    },
+                    {
+                        "pageName": "Educación y Cultura",
+                        "link": "./pages/PRESTAMOS/PERSONALES/EducaciónCultura.html"
+                    },
+                    {
+                        "pageName": "Empleado Feliz",
+                        "link": "./pages/PRESTAMOS/PERSONALES/EmpleadoFeliz.html"
+                    },
+                    {
+                        "pageName": "Sueldo Más",
+                        "link": "./pages/PRESTAMOS/PERSONALES/SueldoMás.html"
+                    },
+                    {
+                        "pageName": "Pensionado Feliz",
+                        "link": "./pages/PRESTAMOS/PERSONALES/PensionadoFeliz.html"
+                    },
+                    {
+                        "pageName": "Préstamos en Dólares",
+                        "link": "./pages/PRESTAMOS/PERSONALES/PréstamosDólares.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "HIPOTECARIOS",
+                "options": [
+                    {
+                        "pageName": "Préstamos Hipotecarios",
+                        "link": "./pages/PRESTAMOS/HIPOTECARIOS/Hipotecarios.html"
+                    },
+                    {
+                        "pageName": "Préstamos Hipotecarios para residentes en el extranjero",
+                        "link": "./pages/PRESTAMOS/HIPOTECARIOS/HipotecariosResidentes.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "VEHICULOS",
+                "options": [
+                    {
+                        "pageName": "Préstamos Vehículos Nuevos",
+                        "link": "./pages/PRESTAMOS/VEHICULOS/VehículosNuevos.html"
+                    },
+                    {
+                        "pageName": "Préstamos Vehículos Usados",
+                        "link": "./pages/PRESTAMOS/VEHICULOS/VehículosUsados.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SEGUROS",
+        "submenu": [
+            {
+                "subTitle": "SEGUROS DE PERSONAS",
+                "options": [
+                    {
+                        "pageName": "Accidentes Personales",
+                        "link": "./pages/SEGUROS/SEGUROS DE PERSONAS/Accidentes.html"
+                    },
+                    {
+                        "pageName": "Asistencia Funeraria",
+                        "link": "./pages/SEGUROS/SEGUROS DE PERSONAS/Asistencia.html"
+                    },
+                    {
+                        "pageName": "Seguro Médico Internacional Just",
+                        "link": "./pages/SEGUROS/SEGUROS DE PERSONAS/SeguroMédico.html"
+                    },
+                    {
+                        "pageName": "Viajes Reservas",
+                        "link": "./pages/SEGUROS/SEGUROS DE PERSONAS/ViajesReservas.html"
+                    },
+                    {
+                        "pageName": "Vida Individual en Pesos y Dólares",
+                        "link": "./pages/SEGUROS/SEGUROS DE PERSONAS/VidaIndividual.html"
+                    },
+                    {
+                        "pageName": "Vida Reservas",
+                        "link": "./pages/SEGUROS/SEGUROS DE PERSONAS/VidaReservas.html"
+                    }
+                ]
+            },
+            {
+                "subTitle": "RIEGOS GENERALES",
+                "options": [
+                    {
+                        "pageName": "Rescate De Prisa",
+                        "link": "./pages/SEGUROS/RIEGOS GENERALES/rescate.html"
+                    },
+                    {
+                        "pageName": "Vehículos de Motor",
+                        "link": "./pages/SEGUROS/RIEGOS GENERALES/vehiculos.html"
+                    },
+                    {
+                        "pageName": "Vivienda Segura",
+                        "link": "./pages/SEGUROS/RIEGOS GENERALES/vivienda.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "REMESAS, IMPUESTOS Y SERVICIOS"
+    }
+]
